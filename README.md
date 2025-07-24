@@ -9,12 +9,14 @@ Technology used
 - Dependency Manager: Maven  
 - Driver Management: WebDriverManager
 
-- Test Coverage
+ 
+✅ Test Coverage
   
  🔐 Login Tests
 - ✔️ Valid Login → Username: `student`, Password: `Password123`
 - ❌ Invalid Login (wrong username)
 - ❌ Invalid Login (wrong password)
+
 
 Each test validates:
 - URL redirect on success
